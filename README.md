@@ -12,3 +12,5 @@ NodeJS <br>
 Sequelize <br>
 PostgreSQL <br>
 ##
+#### Contacto!
+![img](https://images.getpng.net/uploads/preview/popular-social-media-icons5-1151636186391gif1exlz7j.webp) [Linkedin](https://www.linkedin.com/in/benjamin-mi%C3%B1o-814842170/)
