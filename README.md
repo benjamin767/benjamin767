@@ -6,8 +6,8 @@
 -Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo <br>
 
 #### Tengo conocimientos sobre:
-JavaScript
-ReactJS
-NodeJS
-Sequelize
-PostgreSQL
+JavaScript <br>
+ReactJS <br>
+NodeJS <br>
+Sequelize <br>
+PostgreSQL <br>
