@@ -13,4 +13,4 @@ Sequelize <br>
 PostgreSQL <br>
 ##
 #### Contacto!
-![img](https://www.clipartmax.com/png/small/105-1051401_hats-off-to-the-milliners-of-the-kentucky-derby-linkedin-social-media.png) [Linkedin](https://www.linkedin.com/in/benjamin-mi%C3%B1o-814842170/)
+![img](https://img1.freepng.es/20171221/lww/linkedin-png-picture-5a3c18567d0457.7108240415138878305121.jpg) [Linkedin](https://www.linkedin.com/in/benjamin-mi%C3%B1o-814842170/)
